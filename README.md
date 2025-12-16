@@ -1,4 +1,4 @@
-# Library-Management-System-Java
+#### Library-Management-System-Java ####
 
 :books:A library management system implement using concepts of OOP in JAVA, GUI desgined using Java Swing and MS SQL as database.
 
@@ -67,10 +67,7 @@
   
   
   
-  For getting in touch or any help follow [Minahil Imtiaz](https://www.linkedin.com/in/minahilimtiaz/)
-  
-  If this project helped you, then follow me on [@minaahilimtiaz](https://github.com/minaahilimtiaz/) and 🌟 [this repository](https://github.com/minaahilimtiaz/Library-Management-System-Java/)
-  
+
   
  
  
